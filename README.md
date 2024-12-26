@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I’m exploring the balance between web development and algorithmic problem-solving—it’s a fun challenge!
 
-##🚀 About Me
+## 🚀 About Me
 I'm a passionate full-stack developer and competitive programmer aiming to build impactful web applications and excel in problem-solving. My journey in tech started with C and C++, and now I'm diving deep into the MERN stack to create seamless, scalable, and user-friendly applications.
 
 
